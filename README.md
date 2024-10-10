@@ -1,6 +1,6 @@
-# Linux-IPC--Pipes
-Linux-IPC-Pipes
-
+## Name: Priyanka.K
+## Register. No: 212223230162
+## Department: Artificial Intelligence and Data Science
 
 # Ex03-Linux IPC - Pipes
 
